@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Array" Database="" Version="10000">
+  <Project Name="TwoSum" Path="TwoSum/TwoSum.project" Active="No"/>
+  <Project Name="LongestWord" Path="LongestWord/LongestWord.project" Active="No"/>
+  <Project Name="MoveZeroes" Path="MoveZeroes/MoveZeroes.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="TwoSum" ConfigName="Debug"/>
+      <Project Name="LongestWord" ConfigName="Debug"/>
+      <Project Name="MoveZeroes" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="TwoSum" ConfigName="Release"/>
+      <Project Name="LongestWord" ConfigName="Release"/>
+      <Project Name="MoveZeroes" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

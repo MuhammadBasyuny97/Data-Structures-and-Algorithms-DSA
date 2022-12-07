@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sorting" Database="" Version="10000">
+  <Project Name="C++SortingMethod" Path="C++SortingMethod/C++SortingMethod.project" Active="No"/>
+  <Project Name="BubbleSort" Path="BubbleSort/BubbleSort.project" Active="No"/>
+  <Project Name="SelectionSort" Path="SelectionSort/SelectionSort.project" Active="No"/>
+  <Project Name="InsertSorting" Path="InsertSorting/InsertSorting.project" Active="No"/>
+  <Project Name="MergeSorting" Path="MergeSorting/MergeSorting.project" Active="No"/>
+  <Project Name="MergeSort" Path="MergeSort/MergeSort.project" Active="No"/>
+  <Project Name="MergeStaticArray" Path="MergeStaticArray/MergeStaticArray.project" Active="No"/>
+  <Project Name="QuickSort" Path="QuickSort/QuickSort.project" Active="No"/>
+  <Project Name="HeapSort" Path="HeapSort/HeapSort.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="C++SortingMethod" ConfigName="Debug"/>
+      <Project Name="BubbleSort" ConfigName="Debug"/>
+      <Project Name="SelectionSort" ConfigName="Debug"/>
+      <Project Name="InsertSorting" ConfigName="Debug"/>
+      <Project Name="MergeSorting" ConfigName="Debug"/>
+      <Project Name="MergeSort" ConfigName="Debug"/>
+      <Project Name="MergeStaticArray" ConfigName="Debug"/>
+      <Project Name="QuickSort" ConfigName="Debug"/>
+      <Project Name="HeapSort" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="C++SortingMethod" ConfigName="Release"/>
+      <Project Name="BubbleSort" ConfigName="Release"/>
+      <Project Name="SelectionSort" ConfigName="Release"/>
+      <Project Name="InsertSorting" ConfigName="Release"/>
+      <Project Name="MergeSorting" ConfigName="Release"/>
+      <Project Name="MergeSort" ConfigName="Release"/>
+      <Project Name="MergeStaticArray" ConfigName="Release"/>
+      <Project Name="QuickSort" ConfigName="Release"/>
+      <Project Name="HeapSort" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

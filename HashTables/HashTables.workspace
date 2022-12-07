@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="HashTables" Database="" Version="10000">
+  <Project Name="Implementing" Path="Implementing/Implementing.project" Active="No"/>
+  <Project Name="HashNode" Path="HashNode/HashNode.project" Active="No"/>
+  <Project Name="RecurringArray" Path="RecurringArray/RecurringArray.project" Active="Yes"/>
+  <Project Name="RecuuringMap" Path="RecuuringMap/RecuuringMap.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Implementing" ConfigName="Debug"/>
+      <Project Name="HashNode" ConfigName="Debug"/>
+      <Project Name="RecurringArray" ConfigName="Debug"/>
+      <Project Name="RecuuringMap" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Implementing" ConfigName="Release"/>
+      <Project Name="HashNode" ConfigName="Release"/>
+      <Project Name="RecurringArray" ConfigName="Release"/>
+      <Project Name="RecuuringMap" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

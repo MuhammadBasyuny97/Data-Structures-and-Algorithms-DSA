@@ -1,0 +1,6 @@
+E:\Software Engineering\CPP\WorkSpaces\LeetCode\StacksAndQueues\ImplementQueueUsingStack\main.cpp
+E:\Software Engineering\CPP\WorkSpaces\LeetCode\StacksAndQueues\QueueShree\main.cpp
+E:\Software Engineering\CPP\WorkSpaces\LeetCode\StacksAndQueues\StackArray\main.cpp
+E:\Software Engineering\CPP\WorkSpaces\LeetCode\StacksAndQueues\ShreeStackLinkedList\main.cpp
+E:\Software Engineering\CPP\WorkSpaces\LeetCode\StacksAndQueues\Queue\main.cpp
+E:\Software Engineering\CPP\WorkSpaces\LeetCode\StacksAndQueues\Stack\main.cpp

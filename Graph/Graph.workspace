@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Graph" Database="" Version="10000">
+  <Project Name="AdjacentList" Path="GraphImplementation/GraphImplementation.project" Active="Yes"/>
+  <Project Name="Implementation2" Path="Implementation2/Implementation2.project" Active="No"/>
+  <Project Name="ImplementShree1" Path="ImplementShree1/ImplementShree1.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="AdjacentList" ConfigName="Debug"/>
+      <Project Name="Implementation2" ConfigName="Debug"/>
+      <Project Name="ImplementShree1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="AdjacentList" ConfigName="Release"/>
+      <Project Name="Implementation2" ConfigName="Release"/>
+      <Project Name="ImplementShree1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

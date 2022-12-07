@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LeetCode" Database="" Version="10000">
+  <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="No"/>
+  <Project Name="TestLL" Path="TestLL/TestLL.project" Active="No"/>
+  <Project Name="DoublyLinkedList" Path="DoublyLinkedList/DoublyLinkedList.project" Active="Yes"/>
+  <Project Name="ShreeDoublyLL" Path="ShreeDoublyLL/ShreeDoublyLL.project" Active="No"/>
+  <Project Name="ReverseBySinglyLL" Path="ReverseBySinglyLL/ReverseBySinglyLL.project" Active="No"/>
+  <Project Name="TestDL" Path="TestDL/TestDL.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="LinkedList" ConfigName="Debug"/>
+      <Project Name="TestLL" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList" ConfigName="Debug"/>
+      <Project Name="ShreeDoublyLL" ConfigName="Debug"/>
+      <Project Name="ReverseBySinglyLL" ConfigName="Debug"/>
+      <Project Name="TestDL" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="LinkedList" ConfigName="Release"/>
+      <Project Name="TestLL" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList" ConfigName="Release"/>
+      <Project Name="ShreeDoublyLL" ConfigName="Release"/>
+      <Project Name="ReverseBySinglyLL" ConfigName="Release"/>
+      <Project Name="TestDL" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
