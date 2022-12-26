@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Recursion" Database="" Version="10000">
+  <Project Name="Inception" Path="Inception/Inception.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+  <Project Name="Fibonnaci" Path="Fibonnaci/Fibonnaci.project" Active="No"/>
+  <Project Name="ReverseString" Path="ReverseString/ReverseString.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Inception" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="Fibonnaci" ConfigName="Debug"/>
+      <Project Name="ReverseString" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Inception" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Fibonnaci" ConfigName="Release"/>
+      <Project Name="ReverseString" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

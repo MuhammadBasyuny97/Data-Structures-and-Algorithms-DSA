@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="StacksAndQueues" Database="" Version="10000">
+  <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+  <Project Name="Queue" Path="Queue/Queue.project" Active="No"/>
+  <Project Name="ShreeStackLinkedList" Path="ShreeStackLinkedList/ShreeStackLinkedList.project" Active="No"/>
+  <Project Name="StackArray" Path="StackArray/StackArray.project" Active="No"/>
+  <Project Name="Queue" Path="Queue/Queue.project" Active="No"/>
+  <Project Name="QueueShree" Path="QueueShree/QueueShree.project" Active="No"/>
+  <Project Name="ImplementQueueUsingStack" Path="ImplementQueueUsingStack/ImplementQueueUsingStack.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+      <Project Name="ShreeStackLinkedList" ConfigName="Debug"/>
+      <Project Name="StackArray" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+      <Project Name="QueueShree" ConfigName="Debug"/>
+      <Project Name="ImplementQueueUsingStack" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+      <Project Name="ShreeStackLinkedList" ConfigName="Release"/>
+      <Project Name="StackArray" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+      <Project Name="QueueShree" ConfigName="Release"/>
+      <Project Name="ImplementQueueUsingStack" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

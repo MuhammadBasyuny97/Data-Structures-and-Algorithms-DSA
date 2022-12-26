@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Searching" Database="" Version="10000">
+  <Project Name="BinarySearch" Path="BinarySearch/BinarySearch.project" Active="No"/>
+  <Project Name="IntersectingArrays" Path="IntersectingArrays/IntersectingArrays.project" Active="No"/>
+  <Project Name="Trialleetcode" Path="Trialleetcode/Trialleetcode.project" Active="No"/>
+  <Project Name="BFS" Path="NewProject/NewProject.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="BinarySearch" ConfigName="Debug"/>
+      <Project Name="IntersectingArrays" ConfigName="Debug"/>
+      <Project Name="Trialleetcode" ConfigName="Debug"/>
+      <Project Name="BFS" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="BinarySearch" ConfigName="Release"/>
+      <Project Name="IntersectingArrays" ConfigName="Release"/>
+      <Project Name="Trialleetcode" ConfigName="Release"/>
+      <Project Name="BFS" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

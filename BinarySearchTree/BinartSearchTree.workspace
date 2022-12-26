@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="BinartSearchTree" Database="" Version="10000">
+  <Project Name="Implementation" Path="Implementation/Implementation.project" Active="No"/>
+  <Project Name="ShreeImplement" Path="ShreeImplement/ShreeImplement.project" Active="No"/>
+  <Project Name="PriorityQueue" Path="PriorityQueue/PriorityQueue.project" Active="No"/>
+  <Project Name="ShreePriorityQueue" Path="ShreePriorityQueue/ShreePriorityQueue.project" Active="No"/>
+  <Project Name="DynamicProgramming" Path="Contest/Contest.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Implementation" ConfigName="Debug"/>
+      <Project Name="ShreeImplement" ConfigName="Debug"/>
+      <Project Name="PriorityQueue" ConfigName="Debug"/>
+      <Project Name="ShreePriorityQueue" ConfigName="Debug"/>
+      <Project Name="DynamicProgramming" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Implementation" ConfigName="Release"/>
+      <Project Name="ShreeImplement" ConfigName="Release"/>
+      <Project Name="PriorityQueue" ConfigName="Release"/>
+      <Project Name="ShreePriorityQueue" ConfigName="Release"/>
+      <Project Name="DynamicProgramming" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
